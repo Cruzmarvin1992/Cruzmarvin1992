@@ -1,11 +1,11 @@
-##Hello Everyone . My name is Marvelous Obhiebo. A civil engineer and passionate Frontend developer. I love God 
+
 <h1 align="center">Hi 👋, I'm Marvelous Obhiebo</h1>
-<h3 align="center">A passionate Web Developer currently learning and enjoying my journey .I studied Civil Engineering at Ambrose Alli University Ekpoma, Nigeria</h3>
+<h3 align="center">A passionate Web Developer enjoying my journey .I studied Civil Engineering at Ambrose Alli University Ekpoma, Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cruzmarvin1992&label=Profile%20views&color=0e75b6&style=flat" alt="cruzmarvin1992" /> </p>
 
-- 🌱 I’m currently learning **HTML CSS JAVASCRIPT**
+- 🌱 I’m currently learning **HTML,CSS, JAVASCRIPT**
 
 - 📫 How to reach me **marvinobhiebo@gmail.com**
 
