@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Marvelous Obhiebo</h1>
-<h3 align="center">A passionate Web Developer enjoying my journey .I studied Civil Engineering at Ambrose Alli University Ekpoma, Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Obhiebo Marvelous</h1>
+<h3 align="center">Welcome to my little corner of GitHub!I am a passionate Web Developer enjoying my journey .I studied Civil Engineering at Ambrose Alli University Ekpoma, Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cruzmarvin1992&label=Profile%20views&color=0e75b6&style=flat" alt="cruzmarvin1992" /> </p>
